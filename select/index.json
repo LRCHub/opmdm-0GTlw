@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Melt -MIKU EXPO 2014 in INDONESIA Live-",
+  "base_artist": "ryo(supercell)",
+  "createdAt": "2026-02-07T04:30:52.556980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melt (Miku Expo 2014 in Indonesia Live)",
+      "artist": "ryo (supercell)",
+      "has_synced": true,
+      "path": "select/01_Melt_(Miku_Expo_2014_in_Indonesia_Live)_ryo_(supercell).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Melt",
+      "artist": "Ryo Yoshinaga",
+      "has_synced": false,
+      "path": "select/pl_01_Melt_Ryo_Yoshinaga.txt"
+    }
+  ]
+}
